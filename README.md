@@ -155,3 +155,45 @@ INFO : Testcase Size : 500 | Array Size : 100000
 > Worst Time : 29.937033 ms
 > 
 > Average Time : 14.307068 ms
+
+
++Array Size < 500
+
+[NewSort Test Result]
+INFO : Testcase Size : 500 | Array Size : 250
+
+> Best Time : 0.013400 ms
+> 
+> Worst Time : 2.618300 ms
+> 
+> Average Time : 0.038032 ms
+> 
+>Sorting Succeed
+>
+>ㄴError Count : 0
+
+[Intro Sort Test Result]
+INFO : Testcase Size : 500 | Array Size : 250
+
+> Best Time : 0.016400 ms
+> 
+> Worst Time : 0.304000 ms
+> 
+> Average Time : 0.021861 ms
+> 
+>Sorting Succeed
+>
+>ㄴError Count : 0
+
+[Tim Sort Test Result]
+INFO : Testcase Size : 500 | Array Size : 250
+
+> Best Time : 0.017100 ms
+> 
+> Worst Time : 0.260500 ms
+> 
+> Average Time : 0.020847 ms
+> 
+>Sorting Succeed
+>
+>ㄴError Count : 0
