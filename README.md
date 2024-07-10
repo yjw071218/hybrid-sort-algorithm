@@ -1,9 +1,14 @@
 [NewSort Test Result]
 INFO : Testcase Size : 500 | Array Size : 100000
+
 > Best Time : 8.146500 ms
+> 
 > Worst Time : 14.676900 ms
+> 
 > Average Time : 8.795299 ms
+> 
 Sorting Succeed
+
 ㄴError Count : 0
 
 [Intro Sort Test Result]
