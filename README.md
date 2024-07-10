@@ -197,3 +197,5 @@ INFO : Testcase Size : 500 | Array Size : 250
 >Sorting Succeed
 >
 >ㄴError Count : 0
+
+배열의 크기가 작을때 각각의 정렬 알고리즘의 작동 시간은 New Sort가 상대적으로 느리게 나타나는 경우가 발생하였으나 경우에 따라 더 빠른 경우도 있었으며 배열의 크기가 작아 소요 시간이 크지 않으므로 큰 차이가 발생하지 않고 배열의 크기가 작은 경우 비효율적일수 있으나 전체적인 정렬 알고리즘의 성능을 보면 New Sort Algorithm이 보다 뛰어남
