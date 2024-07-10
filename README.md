@@ -8,6 +8,7 @@ INFO : Testcase Size : 500 | Array Size : 100000
 > Average Time : 8.795299 ms
 > 
 >Sorting Succeed
+> 
 >ㄴError Count : 0
 
 [Intro Sort Test Result]
