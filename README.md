@@ -39,6 +39,7 @@ INFO : Testcase Size : 500 | Array Size : 100000
 >
 >ㄴError Count : 0
 
+-----------------------------------------------------
 
 Second Result
 
