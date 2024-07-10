@@ -156,7 +156,7 @@ INFO : Testcase Size : 500 | Array Size : 100000
 > 
 > Average Time : 14.307068 ms
 
-
+----------------------------
 +Array Size < 500
 
 [NewSort Test Result]
