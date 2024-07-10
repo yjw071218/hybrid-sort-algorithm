@@ -1,3 +1,5 @@
+First Result
+
 [NewSort Test Result]
 INFO : Testcase Size : 500 | Array Size : 100000
 
@@ -33,6 +35,48 @@ INFO : Testcase Size : 500 | Array Size : 100000
 >
 > Average Time : 12.493199 ms
 >
+>Sorting Succeed
+>
+>ㄴError Count : 0
+
+
+Second Result
+
+[NewSort Test Result]
+INFO : Testcase Size : 500 | Array Size : 100000
+
+> Best Time : 11.471900 ms
+> 
+> Worst Time : 14.158500 ms
+> 
+> Average Time : 12.026034 ms
+> 
+>Sorting Succeed
+>
+>ㄴError Count : 0
+
+[Intro Sort Test Result]
+INFO : Testcase Size : 500 | Array Size : 100000
+
+> Best Time : 12.536100 ms
+>
+> Worst Time : 14.649400 ms
+> 
+> Average Time : 13.079862 ms
+> 
+>Sorting Succeed
+>
+>ㄴError Count : 0
+
+[Tim Sort Test Result]
+INFO : Testcase Size : 500 | Array Size : 100000
+
+> Best Time : 14.650000 ms
+> 
+> Worst Time : 17.807300 ms
+> 
+> Average Time : 15.274441 ms
+> 
 >Sorting Succeed
 >
 >ㄴError Count : 0
